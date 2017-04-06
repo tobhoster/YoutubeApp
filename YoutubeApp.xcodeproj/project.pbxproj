@@ -91,7 +91,6 @@
 			isa = PBXGroup;
 			children = (
 				D94BB10D1DD00F6D00FF9424 /* Extension.swift */,
-				D9C0932F1DD90CC4007376B3 /* VideoLauncher.swift */,
 			);
 			name = Helpers;
 			sourceTree = "<group>";
@@ -113,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				D906DF571DCDBFD900EA0B97 /* HomeController.swift */,
+				D9C0932F1DD90CC4007376B3 /* VideoLauncher.swift */,
 				D9C093221DD4DADA007376B3 /* SettingsLauncher.swift */,
 			);
 			name = Controller;

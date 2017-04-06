@@ -111,6 +111,7 @@ class MenuCell: BaseCell {
         image.image = UIImage(named: "home.png")?.withRenderingMode(.alwaysTemplate)
         image.contentMode = .scaleAspectFit
         image.tintColor = UIColor.rgb(red: 91, green: 14, blue: 13, alpha: 1)
+        image.translatesAutoresizingMaskIntoConstraints = false
         return image
     }()
     
